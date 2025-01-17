@@ -20,7 +20,7 @@ def print_banner():
     print("Bot Telegram : @ObatKontolBot")
     print("Telegram     : https://t.me/megamelatisukma")
     print("=" * 50)
-
+ print_banner()
 
 async def connect_to_wss(socks5_proxy, user_id):
     device_id = str(uuid.uuid3(uuid.NAMESPACE_DNS, socks5_proxy))
