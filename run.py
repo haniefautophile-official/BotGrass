@@ -17,7 +17,7 @@ def print_banner():
     print("                INFO SCRIPT PYTHON3")
     print("=" * 50)
     print("Created by   : Hanief Autophile")
-    print("YouTube      : Your Channel Name")
+    print("YouTube      : https://www.youtube.com/@tafsirmimpi1750")
     print("Bot Telegram : @ObatKontolBot")
     print("Telegram     : https://t.me/megamelatisukma")
     print("=" * 50)
