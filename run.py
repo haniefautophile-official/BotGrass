@@ -7,6 +7,7 @@ import uuid
 from loguru import logger
 from websockets_proxy import Proxy, proxy_connect
 import pyfiglet
+import os
 
 def print_banner():
     os.system('clear')  # Membersihkan layar terminal
