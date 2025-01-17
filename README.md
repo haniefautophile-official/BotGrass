@@ -9,6 +9,7 @@ apt-get upgrade -y
 pkg install python -y
 pkg install python2
 pkg install python3
+pip install pyfiglet
 pip install requirements.txt
 git clone https://github.com/haniefautophile-official/BotGrass.git
 cd BotGrass
