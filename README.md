@@ -11,10 +11,9 @@ pkg install python2
 pkg install python3
 pip install pyfiglet
 pip install loguru
-pip install -r requirements.txt
 git clone https://github.com/haniefautophile-official/BotGrass.git
 cd BotGrass
-pip install requirements.txt
+pip install -r requirements.txt
 nano proxy.txt
 nano run.py
 python3 run.py
